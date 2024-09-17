@@ -1,0 +1,103 @@
+Metadata from PGN file:
+[Event "57th Capablanca Mem"]
+[Site "Havana CUB"]
+[Date "2024.05.03"]
+[Round "1"]
+[White "Aryan,C"]
+[Black "Albornoz Cabrera,Carlos Daniel"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2604"]
+[EventDate "2024.05.03"]
+[ECO "B90"]
+
+Move 0/75
+  a b c d e f g h
+8 r n b q k b n r 8
+7 p p p p p p p p 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 P P P P P P P P 2
+1 R N B Q K B N R 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 75/75
+  a b c d e f g h
+8 . . . . . k . . 8
+7 . . . . . . . . 7
+6 p . . . . . . . 6
+5 . . . . . Q . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Invalid key pressed: o
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+No more moves available.
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 75/75
+  a b c d e f g h
+8 . . . . . k . . 8
+7 . . . . . . . . 7
+6 p . . . . . . . 6
+5 . . . . . Q . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 74/75
+  a b c d e f g h
+8 . . . . . k . . 8
+7 . . . . . . . . 7
+6 p . . . . . Q . 6
+5 . . . . . . . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 73/75
+  a b c d e f g h
+8 . . . . . . k . 8
+7 . . . . . . . . 7
+6 p . . . . . Q . 6
+5 . . . . . . . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 72/75
+  a b c d e f g h
+8 . . . . . . k . 8
+7 . . . . . . . . 7
+6 p . . . . . . Q 6
+5 . . . . . . . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 71/75
+  a b c d e f g h
+8 . . . . . . . k 8
+7 . . . . . . . . 7
+6 p . . . . . . Q 6
+5 . . . . . . . . 5
+4 . . . q . P . . 4
+3 . . . . . . . . 3
+2 . . . . . . P . 2
+1 . . . r R . . K 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Exiting.
+End of game.

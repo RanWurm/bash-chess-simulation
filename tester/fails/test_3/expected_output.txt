@@ -1,0 +1,102 @@
+Metadata from PGN file:
+[Event "Hastings8384"]
+[Site "Hastings"]
+[Date "1983.??.??"]
+[Round "2"]
+[White "Alburt, Lev O"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2500"]
+[ECO "E04"]
+
+Move 0/37
+  a b c d e f g h
+8 r n b q k b n r 8
+7 p p p p p p p p 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 P P P P P P P P 2
+1 R N B Q K B N R 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 37/37
+  a b c d e f g h
+8 . n r . . . . . 8
+7 . . . n k p p p 7
+6 p . R . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . . N N . P . 3
+2 P P . K P P . P 2
+1 . . R . . . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Invalid key pressed: o
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+No more moves available.
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 37/37
+  a b c d e f g h
+8 . n r . . . . . 8
+7 . . . n k p p p 7
+6 p . R . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . . N N . P . 3
+2 P P . K P P . P 2
+1 . . R . . . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 36/37
+  a b c d e f g h
+8 . n r . . . . . 8
+7 . . . n k p p p 7
+6 p . r . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . R N N . P . 3
+2 P P . K P P . P 2
+1 . . R . . . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 35/37
+  a b c d e f g h
+8 . n . . . . . r 8
+7 . . . n k p p p 7
+6 p . r . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . R N N . P . 3
+2 P P . K P P . P 2
+1 . . R . . . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 34/37
+  a b c d e f g h
+8 . n . . . . . r 8
+7 . . . n k p p p 7
+6 p . r . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . R N N . P . 3
+2 P P . K P P . P 2
+1 . . . . . . . R 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 33/37
+  a b c d e f g h
+8 . n . . . . . r 8
+7 . . . n k p p p 7
+6 p r . . p . . . 6
+5 . p . . . . . . 5
+4 . . . . . . . . 4
+3 . . R N N . P . 3
+2 P P . K P P . P 2
+1 . . . . . . . R 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Exiting.
+End of game.

@@ -1,0 +1,56 @@
+Metadata from PGN file:
+[Event "URS-ch43"]
+[Site "Yerevan"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Alburt, Lev O"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2420"]
+[BlackElo "2645"]
+[ECO "D26"]
+
+Move 0/30
+  a b c d e f g h
+8 r n b q k b n r 8
+7 p p p p p p p p 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 P P P P P P P P 2
+1 R N B Q K B N R 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 30/30
+  a b c d e f g h
+8 . . . . b . . . 8
+7 . p . . k p p p 7
+6 p . n . p n . . 6
+5 . . b . . . . . 5
+4 . . B . . . . . 4
+3 P . N . P N . . 3
+2 . P . . K P P P 2
+1 . . . r B . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Move 30/30
+  a b c d e f g h
+8 . . . . b . . . 8
+7 . p . . k p p p 7
+6 p . n . p n . . 6
+5 . . b . . . . . 5
+4 . . B . . . . . 4
+3 P . N . P N . . 3
+2 . P . . K P P P 2
+1 . . . r B . . . 1
+  a b c d e f g h
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Invalid key pressed: n
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+No more moves available.
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+No more moves available.
+Press 'd' to move forward, 'a' to move back, 'w' to go to the start, 's' to go to the end, 'q' to quit:
+Exiting.
+End of game.
